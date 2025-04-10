@@ -1,0 +1,403 @@
+act;verb;/ækt/;hành động  
+adventure;noun;/ədˈvɛn.tʃɚ/;cuộc phiêu lưu  
+amazing;adjective;/əˈmeɪ.zɪŋ/;tuyệt vời  
+
+bat;noun;/bæt/;con dơi  
+balance;noun;/ˈbæl.əns/;sự cân bằng  
+believe;verb;/bɪˈliːv/;tin tưởng  
+
+cap;noun;/kæp/;mũ lưỡi trai  
+create;verb;/kriˈeɪt/;tạo ra  
+curious;adjective;/ˈkjʊr.i.əs/;tò mò  
+
+dig;verb;/dɪɡ/;đào  
+dance;verb;/dæns/;nhảy múa  
+daring;adjective;/ˈdeər.ɪŋ/;dũng cảm  
+
+elf;noun;/ɛlf/;yêu tinh  
+enjoy;verb;/ɪnˈdʒɔɪ/;thưởng thức  
+energetic;adjective;/ˌen.ɚˈdʒet̬.ɪk/;tràn đầy năng lượng  
+
+fan;noun;/fæn/;quạt  
+famous;adjective;/ˈfeɪ.məs/;nổi tiếng  
+
+gap;noun;/ɡæp/;khoảng trống  
+glow;verb;/ɡloʊ/;phát sáng  
+graceful;adjective;/ˈɡreɪs.fəl/;duyên dáng  
+
+hat;noun;/hæt/;cái nón  
+hug;verb;/hʌɡ/;ôm  
+happy;adjective;/ˈhæp.i/;vui vẻ  
+
+ice;noun;/aɪs/;đá  
+invent;verb;/ɪnˈvent/;phát minh  
+incredible;adjective;/ɪnˈkrɛd.ə.bəl/;đáng kinh ngạc  
+
+jet;noun;/dʒɛt/;máy bay phản lực  
+jump;verb;/dʒʌmp/;nhảy  
+joyful;adjective;/ˈdʒɔɪ.fəl/;vui vẻ  
+
+kit;noun;/kɪt/;bộ dụng cụ  
+knit;verb;/nɪt/;đan  
+kind;adjective;/kaɪnd/;tử tế  
+
+lip;noun;/lɪp/;môi  
+listen;verb;/ˈlɪs.ən/;lắng nghe  
+lively;adjective;/ˈlaɪv.li/;sôi động  
+
+map;noun;/mæp/;bản đồ  
+move;verb;/muːv/;di chuyển  
+magical;adjective;/ˈmædʒ.ɪ.kəl/;kỳ diệu  
+
+net;noun;/nɛt/;lưới  
+notice;verb;/ˈnoʊ.tɪs/;chú ý  
+noble;adjective;/ˈnoʊ.bəl/;cao quý  
+
+owl;noun;/aʊl/;con cú  
+observe;verb;/əbˈzɝːv/;quan sát  
+outstanding;adjective;/aʊtˈstæn.dɪŋ/;xuất sắc  
+
+pan;noun;/pæn/;cái chảo  
+paint;verb;/peɪnt/;sơn, vẽ  
+peaceful;adjective;/ˈpiːs.fəl/;yên bình  
+
+quit;verb;/kwɪt/;rời bỏ  
+question;verb;/ˈkwes.tʃən/;hỏi  
+quick;adjective;/kwɪk/;nhanh  
+
+rat;noun;/ræt/;con chuột  
+run;verb;/rʌn/;chạy  
+radiant;adjective;/ˈreɪ.di.ənt/;rạng rỡ  
+
+sun;noun;/sʌn/;mặt trời  
+sing;verb;/sɪŋ/;hát  
+strong;adjective;/strɒŋ/;mạnh mẽ  
+
+tap;verb;/tæp/;gõ nhẹ  
+travel;verb;/ˈtræv.əl/;du lịch  
+tender;adjective;/ˈten.dɚ/;dịu dàng  
+
+urn;noun;/ɝːn/;cái bình  
+understand;verb;/ˌʌn.dɚˈstænd/;hiểu  
+unique;adjective;/juːˈniːk/;độc đáo  
+
+van;noun;/væn/;xe tải nhỏ  
+visit;verb;/ˈvɪz.ɪt/;thăm  
+vibrant;adjective;/ˈvaɪ.brənt/;sôi động  
+
+wax;noun;/wæks/;sáp  
+whisper;verb;/ˈwɪs.pɚ/;thì thầm  
+wonderful;adjective;/ˈwʌn.dɚ.fəl/;tuyệt vời  
+
+xray;noun;/ˈɛks.reɪ/;tia X  
+xerox;verb;/ˈzɪr.ɑːks/;sao chụp  
+xenophobic;adjective;/ˌzen.əˈfoʊ.bɪk/;bài ngoại  
+
+yoga;noun;/ˈjoʊ.ɡə/;yoga  
+yell;verb;/jel/;hét  
+youthful;adjective;/ˈjuːθ.fəl/;trẻ trung  
+
+zebra;noun;/ˈziː.brə/;ngựa vằn  
+zoom;verb;/zuːm/;phóng to  
+zealous;adjective;/ˈzel.əs/;nhiệt huyết  
+breeze;noun;/briːz/;cơn gió nhẹ  
+blink;verb;/blɪŋk/;chớp mắt  
+blush;verb;/blʌʃ/;đỏ mặt  
+bundle;noun;/ˈbʌn.dəl/;bó, gói  
+
+clutch;verb;/klʌtʃ/;nắm chặt  
+crumble;verb;/ˈkrʌm.bəl/;vỡ vụn  
+cautious;adjective;/ˈkɔː.ʃəs/;thận trọng  
+cheerful;adjective;/ˈtʃɪr.fəl/;vui vẻ  
+
+dangle;verb;/ˈdæŋ.ɡəl/;đu đưa  
+dazzle;verb;/ˈdæz.əl/;làm chói mắt  
+delight;noun;/dɪˈlaɪt/;sự vui thích  
+dismantle;verb;/dɪsˈmæn.təl/;tháo dỡ  
+
+echo;noun;/ˈɛk.oʊ/;tiếng vang  
+embrace;verb;/ɪmˈbreɪs/;ôm chặt  
+enchant;verb;/ɪnˈtʃænt/;mê hoặc  
+esteem;noun;/ɪˈstiːm/;lòng kính trọng  
+
+fierce;adjective;/fɪrs/;hung dữ  
+flourish;verb;/ˈflɝː.ɪʃ/;phát triển mạnh  
+flutter;verb;/ˈflʌt̬.ɚ/;vỗ cánh, đập nhẹ  
+fragrance;noun;/ˈfreɪ.ɡrəns/;hương thơm  
+
+glimmer;verb;/ˈɡlɪm.ɚ/;lấp lánh  
+grumble;verb;/ˈɡrʌm.bəl/;cằn nhằn  
+gleeful;adjective;/ˈɡliː.fəl/;hớn hở  
+glisten;verb;/ˈɡlɪs.ən/;sáng lấp lánh  
+
+hurdle;noun;/ˈhɝː.dəl/;rào cản  
+hollow;adjective;/ˈhɑː.loʊ/;rỗng  
+humble;adjective;/ˈhʌm.bəl/;khiêm tốn  
+hustle;verb;/ˈhʌs.əl/;hối hả  
+
+illuminate;verb;/ɪˈluː.mɪ.neɪt/;chiếu sáng  
+intricate;adjective;/ˈɪn.trɪ.kət/;phức tạp  
+immerse;verb;/ɪˈmɝːs/;đắm chìm  
+iridescent;adjective;/ˌɪr.ɪˈdɛs.ənt/;ánh màu sắc cầu vồng  
+
+juggle;verb;/ˈdʒʌɡ.əl/;tung hứng  
+jaunty;adjective;/ˈdʒɑːn.ti/;vui vẻ, hoạt bát  
+jittery;adjective;/ˈdʒɪt.ər.i/;bồn chồn  
+jostle;verb;/ˈdʒɑː.səl/;xô đẩy  
+
+keen;adjective;/kiːn/;hăng hái, nhiệt tình  
+kindle;verb;/ˈkɪn.dəl/;châm lửa, kích thích  
+knack;noun;/næk/;năng khiếu  
+knead;verb;/niːd/;nhào bột  
+
+luminous;adjective;/ˈluː.mə.nəs/;phát sáng  
+lurk;verb;/lɝːk/;ẩn nấp  
+luscious;adjective;/ˈlʌʃ.əs/;ngon lành, mọng nước  
+lofty;adjective;/ˈlɑːf.ti/;cao ngạo  
+
+murmur;verb;/ˈmɝː.mɚ/;thì thầm  
+mystify;verb;/ˈmɪs.tɪ.faɪ/;làm bối rối  
+mingle;verb;/ˈmɪŋ.ɡəl/;hòa lẫn  
+meander;verb;/miˈæn.dɚ/;đi quanh co  
+
+nurture;verb;/ˈnɝː.tʃɚ/;nuôi dưỡng  
+nimble;adjective;/ˈnɪm.bəl/;lanh lợi  
+novelty;noun;/ˈnɑː.vəl.ti/;sự mới lạ  
+nuzzle;verb;/ˈnʌz.əl/;rúc vào  
+
+obscure;adjective;/əbˈskjʊr/;tối nghĩa  
+ornate;adjective;/ɔːrˈneɪt/;hoa mỹ  
+outlandish;adjective;/aʊtˈlæn.dɪʃ/;kỳ quái  
+overt;adjective;/oʊˈvɝːt/;công khai  
+
+plummet;verb;/ˈplʌm.ɪt/;rơi thẳng xuống  
+pristine;adjective;/ˈprɪs.tiːn/;ban sơ, tinh khiết  
+prowl;verb;/praʊl/;rình mò  
+perplex;verb;/pɚˈplɛks/;làm bối rối  
+
+quiver;verb;/ˈkwɪv.ɚ/;run rẩy  
+quirky;adjective;/ˈkwɝː.ki/;kỳ quặc  
+quench;verb;/kwɛntʃ/;dập tắt, làm dịu  
+quaint;adjective;/kweɪnt/;cổ kính  
+
+relish;verb;/ˈrɛl.ɪʃ/;thích thú  
+radiant;adjective;/ˈreɪ.di.ənt/;rực rỡ  
+recede;verb;/rɪˈsiːd/;rút lui  
+rumble;verb;/ˈrʌm.bəl/;ầm ầm  
+
+squabble;verb;/ˈskwɑː.bəl/;cãi vặt  
+sway;verb;/sweɪ/;lắc lư  
+stagger;verb;/ˈstæɡ.ɚ/;loạng choạng  
+serene;adjective;/səˈriːn/;thanh bình  
+
+tremor;noun;/ˈtrɛ.mɚ/;rung chuyển  
+tug;verb;/tʌɡ/;kéo mạnh  
+tantalize;verb;/ˈtæn.tə.laɪz/;trêu ngươi  
+
+unravel;verb;/ʌnˈræv.əl/;tháo gỡ  
+uplift;verb;/ʌpˈlɪft/;nâng cao  
+unveil;verb;/ʌnˈveɪl/;tiết lộ  
+unison;noun;/ˈjuː.nɪ.sən/;sự đồng thanh  
+
+vex;verb;/vɛks/;làm phiền  
+venture;verb;/ˈvɛn.tʃɚ/;mạo hiểm  
+vibrant;adjective;/ˈvaɪ.brənt/;sống động  
+vanquish;verb;/ˈvæŋ.kwɪʃ/;đánh bại  
+
+whirl;verb;/wɝːl/;xoay tròn  
+waver;verb;/ˈweɪ.vɚ/;dao động  
+wither;verb;/ˈwɪð.ɚ/;héo tàn  
+whimsical;adjective;/ˈwɪm.zɪ.kəl/;kỳ lạ  
+
+yonder;adverb;/ˈjɑːn.dɚ/;đằng kia  
+yearn;verb;/jɝːn/;khao khát  
+yelp;verb;/jɛlp/;kêu ăng ẳng  
+yield;verb;/jiːld/;nhường, sản xuất  
+
+zealous;adjective;/ˈzɛl.əs/;hăng hái  
+zest;noun;/zɛst/;sự hăng hái  
+zigzag;verb;/ˈzɪɡ.zæɡ/;chạy ngoằn ngoèo  
+zenith;noun;/ˈziː.nɪθ/;đỉnh cao  
+algorithm;noun;/ˈæl.ɡə.rɪð.əm/;thuật toán  
+array;noun;/əˈreɪ/;mảng dữ liệu  
+authentication;noun;/ɔːˌθen.tɪˈkeɪ.ʃən/;xác thực  
+bandwidth;noun;/ˈbænd.wɪdθ/;băng thông  
+
+cache;noun;/kæʃ/;bộ nhớ đệm  
+cybersecurity;noun;/ˌsaɪ.bɚ.sɪˈkjʊr.ə.t̬i/;an ninh mạng  
+cloud computing;noun;/klaʊd kəmˈpjuː.tɪŋ/;điện toán đám mây  
+compile;verb;/kəmˈpaɪl/;biên dịch  
+
+database;noun;/ˈdeɪ.tə.beɪs/;cơ sở dữ liệu  
+debug;verb;/ˌdiːˈbʌɡ/;gỡ lỗi  
+domain;noun;/doʊˈmeɪn/;tên miền  
+
+encryption;noun;/ɪnˈkrɪp.ʃən/;mã hóa  
+endpoint;noun;/ˈɛnd.pɔɪnt/;điểm cuối trong mạng  
+exception;noun;/ɪkˈsɛp.ʃən/;ngoại lệ (trong lập trình)  
+executable;noun;/ˌɛk.sɪˈkjuː.tə.bəl/;tập tin thực thi  
+
+firewall;noun;/ˈfaɪr.wɑːl/;tường lửa  
+framework;noun;/ˈfreɪm.wɝːk/;khung làm việc  
+frontend;noun;/frʌntˈɛnd/;giao diện phía người dùng  
+function;noun;/ˈfʌŋk.ʃən/;hàm (trong lập trình)  
+
+gateway;noun;/ˈɡeɪt.weɪ/;cổng kết nối mạng  
+Git;noun;/ɡɪt/;hệ thống quản lý phiên bản  
+GUI;noun;/ˈɡuː.i/;giao diện đồ họa người dùng  
+GPU;noun;/ˌdʒiː.piːˈjuː/;bộ xử lý đồ họa  
+
+hash;noun;/hæʃ/;mã băm  
+hosting;noun;/ˈhoʊ.stɪŋ/;dịch vụ lưu trữ web  
+hyperlink;noun;/ˈhaɪ.pɚ.lɪŋk/;siêu liên kết  
+HTTP;noun;/ˌeɪtʃ.tiː.tiːˈpiː/;giao thức truyền tải siêu văn bản  
+
+index;noun;/ˈɪn.deks/;chỉ mục (trong cơ sở dữ liệu)  
+input;noun;/ˈɪn.pʊt/;dữ liệu đầu vào  
+iteration;noun;/ˌɪt̬.əˈreɪ.ʃən/;vòng lặp  
+IP address;noun;/ˌaɪˈpiː əˌdres/;địa chỉ IP  
+
+JavaScript;noun;/ˈdʒɑː.və.skrɪpt/;ngôn ngữ lập trình JavaScript  
+JSON;noun;/ˈdʒeɪ.sən/;định dạng dữ liệu JSON  
+JVM;noun;/dʒeɪ.viːˈɛm/;Máy ảo Java (Java Virtual Machine)  
+JWT;noun;/ˌdʒeɪ.dʌb.əl.juːˈtiː/;Chuỗi JSON Web Token  
+
+kernel;noun;/ˈkɝː.nəl/;nhân hệ điều hành  
+keyword;noun;/ˈkiː.wɝːd/;từ khóa  
+keystroke;noun;/ˈkiː.stroʊk/;tổ hợp phím  
+Kubernetes;noun;/ˌkuː.bɚˈneɪ.tiːz/;hệ thống quản lý container  
+
+library;noun;/ˈlaɪ.brer.i/;thư viện lập trình  
+loop;noun;/luːp/;vòng lặp  
+load balancer;noun;/loʊd ˈbæl.ənsɚ/;cân bằng tải  
+Linux;noun;/ˈlɪn.ʊks/;hệ điều hành mã nguồn mở  
+
+malware;noun;/ˈmæl.wɛr/;phần mềm độc hại  
+microservice;noun;/ˈmaɪ.kroʊˌsɝː.vɪs/;kiến trúc microservices  
+middleware;noun;/ˈmɪd.əl.wɛr/;phần mềm trung gian  
+module;noun;/ˈmɑː.dʒuːl/;mô-đun  
+
+network;noun;/ˈnɛt.wɝːk/;mạng máy tính  
+node;noun;/noʊd/;nút mạng  
+NoSQL;noun;/ˌnoʊˈɛs.kjuː.ɛl/;hệ quản trị cơ sở dữ liệu phi quan hệ  
+null;noun;/nʌl/;giá trị rỗng  
+object;noun;/ˈɑːb.dʒɪkt/;đối tượng (trong lập trình hướng đối tượng)  
+OAuth;noun;/ˈoʊ.æθ/;giao thức xác thực OAuth  
+open-source;adjective;/ˈoʊ.pən sɔːrs/;mã nguồn mở  
+operating system;noun;/ˈɑː.pə.reɪ.tɪŋ ˌsɪs.təm/;hệ điều hành  
+packet;noun;/ˈpæk.ɪt/;gói tin  
+parse;verb;/pɑːrs/;phân tích cú pháp  
+payload;noun;/ˈpeɪ.loʊd/;dữ liệu tải  
+ping;verb;/pɪŋ/;kiểm tra kết nối mạng  
+query;noun;/ˈkwɪr.i/;truy vấn dữ liệu  
+queue;noun;/kjuː/;hàng đợi  
+quicksort;noun;/ˈkwɪk.sɔːrt/;thuật toán sắp xếp nhanh  
+QoS;noun;/ˌkjuː.oʊˈɛs/;Chất lượng dịch vụ (Quality of Service)  
+router;noun;/ˈruː.tɚ/;bộ định tuyến  
+repository;noun;/rɪˈpɑː.zɪ.tɔːr.i/;kho lưu trữ mã nguồn  
+REST API;noun;/rɛst ˌeɪ.piː.aɪ/;giao diện lập trình ứng dụng REST  
+runtime;noun;/ˈrʌn.taɪm/;thời gian chạy  
+stack;noun;/stæk/;ngăn xếp  
+SQL;noun;/ˌɛs.kjuːˈɛl/;ngôn ngữ truy vấn có cấu trúc  
+server;noun;/ˈsɝː.vɚ/;máy chủ  
+syntax;noun;/ˈsɪn.tæks/;cú pháp lập trình  
+token;noun;/ˈtoʊ.kən/;mã thông báo  
+thread;noun;/θrɛd/;luồng xử lý  
+troubleshooting;noun;/ˈtrʌ.bəlˌʃuː.tɪŋ/;xử lý sự cố  
+two-factor authentication;noun;/tuː ˈfæk.tɚ ɔːˌθen.tɪˈkeɪ.ʃən/;xác thực hai yếu tố  
+update;verb;/ʌpˈdeɪt/;cập nhật  
+upload;verb;/ʌpˈloʊd/;tải lên  
+UX;noun;/juː.ɛks/;trải nghiệm người dùng  
+user interface;noun;/ˈjuː.zɚ ˈɪn.tɚ.feɪs/;giao diện người dùng  
+
+virtual machine;noun;/ˈvɝː.tʃu.əl məˈʃiːn/;máy ảo  
+variable;noun;/ˈvɛr.i.ə.bəl/;biến số  
+version control;noun;/ˈvɝː.ʒən kənˈtroʊl/;quản lý phiên bản  
+VPN;noun;/ˌviː.piːˈɛn/;mạng riêng ảo (Virtual Private Network)  
+accommodate;verb;/əˈkɑː.mə.deɪt/;cung cấp chỗ ở, thích nghi  
+accumulate;verb;/əˈkjuː.mjə.leɪt/;tích lũy  
+advocate;verb;/ˈæd.və.keɪt/;ủng hộ  
+alleviate;verb;/əˈliː.vi.eɪt/;giảm bớt  
+ambiguity;noun;/ˌæm.bɪˈɡjuː.ə.ti/;sự mơ hồ  
+apprehensive;adjective;/ˌæp.rɪˈhen.sɪv/;lo lắng  
+arbitrary;adjective;/ˈɑːr.bɪ.trer.i/;tùy tiện  
+assert;verb;/əˈsɝːt/;khẳng định  
+attain;verb;/əˈteɪn/;đạt được  
+authentic;adjective;/ɔːˈθen.tɪk/;xác thực  
+benchmark;noun;/ˈbentʃ.mɑːrk/;tiêu chuẩn so sánh  
+bias;noun;/ˈbaɪ.əs/;định kiến  
+coherent;adjective;/koʊˈhɪr.ənt/;mạch lạc  
+coincide;verb;/ˌkoʊ.ɪnˈsaɪd/;trùng hợp  
+commodity;noun;/kəˈmɑː.də.t̬i/;hàng hóa  
+compensate;verb;/ˈkɑːm.pən.seɪt/;bồi thường  
+compile;verb;/kəmˈpaɪl/;biên soạn  
+conceive;verb;/kənˈsiːv/;tưởng tượng, nghĩ ra  
+concurrent;adjective;/kənˈkɝː.ənt/;đồng thời  
+contradict;verb;/ˌkɑːn.trəˈdɪkt/;mâu thuẫn  
+contemplate;verb;/ˈkɑːn.t̬əm.pleɪt/;suy ngẫm  
+conviction;noun;/kənˈvɪk.ʃən/;niềm tin chắc chắn  
+correlate;verb;/ˈkɔːr.ə.leɪt/;có tương quan  
+criterion;noun;/kraɪˈtɪr.i.ən/;tiêu chuẩn  
+cynical;adjective;/ˈsɪn.ɪ.kəl/;hoài nghi  
+deduce;verb;/dɪˈduːs/;suy luận  
+detrimental;adjective;/ˌdet.rɪˈmen.t̬əl/;gây hại  
+deviation;noun;/ˌdiː.viˈeɪ.ʃən/;sự sai lệch  
+discrepancy;noun;/dɪˈskrep.ən.si/;sự khác biệt  
+elaborate;adjective;/ɪˈlæb.ɚ.ət/;chi tiết, phức tạp  
+empirical;adjective;/ɪmˈpɪr.ɪ.kəl/;theo thực nghiệm  
+endure;verb;/ɪnˈdʊr/;chịu đựng  
+envision;verb;/ɪnˈvɪʒ.ən/;hình dung  
+eradicate;verb;/ɪˈræd.ɪ.keɪt/;xóa bỏ  
+erratic;adjective;/ɪˈræt.ɪk/;thất thường  
+exacerbate;verb;/ɪɡˈzæs.ɚ.beɪt/;làm trầm trọng thêm  
+exemplify;verb;/ɪɡˈzem.plə.faɪ/;làm ví dụ minh họa  
+expenditure;noun;/ɪkˈspen.də.tʃɚ/;chi tiêu  
+fluctuate;verb;/ˈflʌk.tʃu.eɪt/;dao động  
+forfeit;verb;/ˈfɔːr.fɪt/;bị mất, tước quyền  
+formidable;adjective;/ˈfɔːr.mɪ.də.bəl/;đáng gờm  
+hinder;verb;/ˈhɪn.dɚ/;cản trở  
+hypothesis;noun;/haɪˈpɑː.θə.sɪs/;giả thuyết  
+implicit;adjective;/ɪmˈplɪs.ɪt/;ngầm hiểu  
+incentive;noun;/ɪnˈsen.t̬ɪv/;động lực  
+incompatible;adjective;/ˌɪn.kəmˈpæt.ə.bəl/;không tương thích  
+inevitable;adjective;/ɪnˈev.ɪ.t̬ə.bəl/;không thể tránh khỏi  
+integrity;noun;/ɪnˈteɡ.rə.t̬i/;sự chính trực  
+intrinsic;adjective;/ɪnˈtrɪn.zɪk/;thuộc bản chất  
+justify;verb;/ˈdʒʌs.tə.faɪ/;biện minh  
+legitimate;adjective;/ləˈdʒɪt.ə.mət/;hợp pháp  
+lucrative;adjective;/ˈluː.krə.t̬ɪv/;sinh lợi  
+manifest;verb;/ˈmæn.ə.fest/;biểu lộ  
+manipulate;verb;/məˈnɪp.jə.leɪt/;thao túng  
+meticulous;adjective;/məˈtɪk.jə.ləs/;tỉ mỉ  
+momentum;noun;/moʊˈmen.t̬əm/;động lực  
+notion;noun;/ˈnoʊ.ʃən/;khái niệm  
+obsolete;adjective;/ˌɑːb.səˈliːt/;lỗi thời  
+paradigm;noun;/ˈpær.ə.daɪm/;mô hình, khuôn mẫu  
+plausible;adjective;/ˈplɑː.zə.bəl/;hợp lý  
+ponder;verb;/ˈpɑːn.dɚ/;suy ngẫm  
+preliminary;adjective;/prɪˈlɪm.ə.ner.i/;sơ bộ  
+prevalent;adjective;/ˈprev.əl.ənt/;phổ biến  
+prolific;adjective;/prəˈlɪf.ɪk/;sản xuất nhiều  
+proponent;noun;/prəˈpoʊ.nənt/;người ủng hộ  
+redundant;adjective;/rɪˈdʌn.dənt/;dư thừa  
+retrospect;noun;/ˈret.rə.spekt/;hồi tưởng  
+scrutinize;verb;/ˈskruː.t̬ən.aɪz/;xem xét kỹ lưỡng  
+spontaneous;adjective;/spɑːnˈteɪ.ni.əs/;tự phát  
+subsidy;noun;/ˈsʌb.sə.di/;trợ cấp  
+subtle;adjective;/ˈsʌt̬.əl/;tinh tế  
+tentative;adjective;/ˈten.t̬ə.t̬ɪv/;tạm thời  
+undermine;verb;/ˌʌn.dɚˈmaɪn/;làm suy yếu  
+viable;adjective;/ˈvaɪ.ə.bəl/;khả thi  
+warrant;verb;/ˈwɔːr.ənt/;bảo đảm 
+
+defenestration;danh từ;/ˌdiː.fəˈnes.treɪ.ʃən/;hành động ném ai đó hoặc cái gì đó ra khỏi cửa sổ
+vegetarian;noun;[ˌvedʒ.ɪˈteə.ri.ən];người ăn chay
+flabbergasted;adj;/ˈflæb.ɚ.ɡæs.tɪd/;kinh ngạc, sửng sốt
+serendipity;n;/ˌser.ənˈdɪp.ə.ti/;sự tình cờ may mắn
+famous;adj;chua biet;nổi tiếng
+
+explore;verb;/ɪkˈsplɔːr/;khám phá
+
+sonder;danh từ;/ˈsɒndər/;cảm giác nhận ra mỗi người xung quanh đều có cuộc sống riêng, phức tạp như mình
+
+deploy;verb;đè loi;cất cánh
