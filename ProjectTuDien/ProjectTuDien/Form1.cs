@@ -115,15 +115,18 @@ namespace ProjectTuDien
             }
         }
         private void ThemTu_Click(object sender, EventArgs e)
-        {    if(AnhViet.Text == "Việt-Anh")
+        {    if (AnhViet.Text == "Việt-Anh")
             {
                 MessageBox.Show("Chức năng chỉ hoạt động khi nhập tiếng Anh \n hãy chuyển sang  Anh-Việt trước đã.", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                DocTu.Visible = false;//Phòng trường hợp đã nhập 1 từ và nút đọc từ đang hiện sau đó ấn thêm nút thêm từ và đọc từ chưa tắt làm chèn cá nút khác
             }
-            DocTu.Visible=false;//Phòng trường hợp đã nhập 1 từ và nút đọc từ đang hiện sau đó ấn thêm nút thêm từ và đọc từ chưa tắt làm chèn cá nút khác
-            AddTu.Visible = true;  // Hiện textbox nhập từ
-            XacNhan.Visible = true; // Hiện nút xác nhận thêm từ
-            
-            Result.Text = " Hãy nhập theo mẫu: từ;từ loại;phiên âm;nghĩa";
+            else
+            {
+                DocTu.Visible = false;//Phòng trường hợp đã nhập 1 từ và nút đọc từ đang hiện sau đó ấn thêm nút thêm từ và đọc từ chưa tắt làm chèn cá nút khác
+                AddTu.Visible = true;  // Hiện textbox nhập từ
+                XacNhan.Visible = true; // Hiện nút xác nhận thêm từ
+                Result.Text=" Hãy nhập theo mẫu: từ;từ loại;phiên âm;nghĩa";
+            }
         }
         private void XacNhanThemTu(object sender, EventArgs e)
         {

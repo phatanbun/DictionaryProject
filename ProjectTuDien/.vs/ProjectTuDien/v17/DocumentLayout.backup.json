@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\PHAT\\Downloads\\FinishedDictionary\\DictionaryProject\\ProjectTuDien\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D3975BF-A22F-4164-84B2-0B5ABD8D8141}|ProjectTuDien\\ProjectTuDien.csproj|c:\\users\\phat\\downloads\\finisheddictionary\\dictionaryproject\\projecttudien\\projecttudien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4D3975BF-A22F-4164-84B2-0B5ABD8D8141}|ProjectTuDien\\ProjectTuDien.csproj|C:\\Users\\PHAT\\Downloads\\FinishedDictionary\\DictionaryProject\\ProjectTuDien\\projecttudien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4D3975BF-A22F-4164-84B2-0B5ABD8D8141}|ProjectTuDien\\ProjectTuDien.csproj|solutionrelative:projecttudien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D3975BF-A22F-4164-84B2-0B5ABD8D8141}|ProjectTuDien\\ProjectTuDien.csproj|C:\\Users\\PHAT\\Downloads\\FinishedDictionary\\DictionaryProject\\ProjectTuDien\\projecttudien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D3975BF-A22F-4164-84B2-0B5ABD8D8141}|ProjectTuDien\\ProjectTuDien.csproj|c:\\users\\phat\\downloads\\finisheddictionary\\dictionaryproject\\projecttudien\\projecttudien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D3975BF-A22F-4164-84B2-0B5ABD8D8141}|ProjectTuDien\\ProjectTuDien.csproj|solutionrelative:projecttudien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "ProjectTuDien\\Form1.cs",
               "ToolTip": "C:\\Users\\PHAT\\Downloads\\FinishedDictionary\\DictionaryProject\\ProjectTuDien\\ProjectTuDien\\Form1.cs",
               "RelativeToolTip": "ProjectTuDien\\Form1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwBAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-23T19:42:34.569Z",
               "EditorCaption": ""
@@ -59,7 +59,8 @@
               "RelativeToolTip": "ProjectTuDien\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T18:22:45.215Z"
+              "WhenOpened": "2025-03-23T18:22:45.215Z",
+              "EditorCaption": ""
             }
           ]
         }
